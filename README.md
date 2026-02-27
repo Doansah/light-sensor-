@@ -9,3 +9,8 @@ When my esp32 detects some motion. (not my bank account), it sends an HTTP reque
 Simple as dat.
 
 I have way too much free time. 
+
+
+# ok but how tho? 
+
+1) esp32 
